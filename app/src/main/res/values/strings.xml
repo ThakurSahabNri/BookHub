@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">BookHub</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="favourites">Favourites</string>
+    <string name="profile">Profile</string>
+    <string name="about_app">About App</string>
+    <string name="navigation_drawer">Navigation Drawer</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="deshboard_fragement">Deshboard Fragement</string>
+    <string name="favourites_fragement">Favourites Fragement</string>
+    <string name="profile_fragment">Profile Fregment</string>
+    <string name="about_app_fragment">About App Fregment</string>
+    <string name="manoj_thakur">Manoj Thakur</string>
+    <string name="thakurmnaoj2000_gmail_com">thakurmnaoj2000@gmail.com</string>
+    <string name="_0123456789">0123456789</string>
+    <string name="vill_nari_chata_mathura">Vill-Nari Chata Mathura</string>
+    <string name="name_of_the_author">Name of the Author</string>
+    <string name="rs_299">Rs.299</string>
+    <string name="wings_of_love">Wings Of Love</string>
+    <string name="_4_5">4.5</string>
+    <string name="wing_of_fire">Wing Of Fire</string>
+    <string name="rich_dad_poor_dad">Rich Dad Poor Dad</string>
+    <string name="half_girlfriend">Half Girlfriend</string>
+    <string name="_3_idiot">3 Idiot</string>
+    <string name="_2_states">2 States</string>
+    <string name="check_internet">Check Internet</string>
+    <string name="about_book">About Book :</string>
+    <string name="about_the_book">About The Book :</string>
+    <string name="paragraphs">Paragraphs</string>
+    <string name="add_to_favourites">Add To Favourites</string>
+    <string name="author_name">Author Name</string>
+    <string name="book_name">Book Name</string>
+    <string name="hello_world">Hello world</string>
+    <string name="android_inc">Android Inc.</string>
+    <string name="rs_499">RS 499</string>
+    <string name="_4_5_">4.5</string>
+    <string name="sort">Sort</string>
+    <string name="welcome_to_bookhub_the_ultimate_book_hub">Welcome to BookHub, the ultimate book hub for passionate readers and bookworms! Our app is designed to revolutionize your reading experience and connect you with a vibrant community of literary enthusiasts. Discover a vast collection of books spanning various genres, from timeless classics to the latest bestsellers. With our intuitive search and recommendation system, you\'ll easily find your next captivating read. Dive into immersive author biographies, explore curated book lists, and access insightful reviews to make informed choices. But that\'s not all. Connect with fellow book lovers through lively discussions, book clubs, and forums. Share your thoughts, recommendations, and book-related insights with a global community that shares your love for reading. Engage in literary debates, participate in reading challenges, and expand your literary horizons like never before. We understand that reading is a personal journey, so we\'ve made it easy to organize your virtual bookshelf, track your reading progress, and set personalized reading goals. Stay up-to-date with the latest releases, author events, and literary news through our curated content and notifications. Whether you\'re an avid reader, a casual bibliophile, or an aspiring writer, BookHub is your go-to companion for all things books. Immerse yourself in a world of words, connect with like-minded individuals, and embark on unforgettable literary adventures.</string>
+</resources>

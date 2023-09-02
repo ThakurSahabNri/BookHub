@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="220dp">
+
+    <LinearLayout
+        android:id="@+id/llFavContent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:weightSum="11"
+        >
+
+        <ImageView
+            android:id="@+id/ivFavBookImage"
+            android:layout_width="120dp"
+            android:layout_height="0dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="7"
+            android:background="#f5f5f5"
+            android:scaleType="fitCenter"
+            android:src="@drawable/book_image" />
+
+        <TextView
+            android:id="@+id/favBookName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:text="@string/hello_world"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/favBookAuthor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:text="@string/android_inc"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/favBookPrice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:text="@string/rs_499"
+            android:textColor="@color/teal_200"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/favBookRating"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:drawableLeft="@drawable/star"
+            android:text="4.5"
+            android:textColor="@color/teal_200"
+            android:textSize="18sp" />
+
+    </LinearLayout>
+
+
+</androidx.cardview.widget.CardView>
